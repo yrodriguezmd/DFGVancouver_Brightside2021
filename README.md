@@ -12,4 +12,8 @@ Datathon day.  Processed 2021 crime data per neighbourhood.  Manually linked nei
 
 #### 2.  survey2020
 
-Cleaned 2020 survey variables.
+2020 survey variables trimming of variables.
+
+#### 3.  survey2020 clean
+
+2020 survey trimmed variables, null values filled.  Ready for EDA.
