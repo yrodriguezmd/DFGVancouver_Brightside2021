@@ -17,3 +17,7 @@ Datathon day.  Processed 2021 crime data per neighbourhood.  Manually linked nei
 #### 3.  survey2020 clean
 
 2020 survey trimmed variables, null values filled.  Ready for EDA.
+
+#### 4.  survey'20 EDA 9_5
+
+Using cleaned 2020, removed mod-high correlated variables,checked plots of location vs others - checked survey questions and answer values.  Initially did some location-based plotting, however, might need to resort back to df.hist due to inapplicability of taking the mean (values not really ordinal).
