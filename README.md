@@ -2,9 +2,7 @@
 
 #### Datathon with Data For Good Vancouver, in cooperation with Brightside
 
-Helped in the initial analysis of Brightside housing data.  Focused on crime rates per Vancouver neighbourhood.  Merged crime rates data with housing amenities data per housing building.
-
-Plenty of room for further EDA and predictive analysis.
+Analysis of Brightside housing data.  
 
 #### 1.  rodriguez_2021
 
@@ -21,3 +19,5 @@ Datathon day.  Processed 2021 crime data per neighbourhood.  Manually linked nei
 #### 4.  survey'20 EDA 9_5
 
 Using cleaned 2020, removed mod-high correlated variables,checked plots of location vs others - checked survey questions and answer values.  Initially did some location-based plotting, however, might need to resort back to df.hist due to inapplicability of taking the mean (values not really ordinal).
+
+-> Task: convert 'prefer not to answer' asnwers to NaN, recheck missing val distribution.
