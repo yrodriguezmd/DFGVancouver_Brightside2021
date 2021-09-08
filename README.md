@@ -45,4 +45,10 @@ Most tenants were previously renting from private companies in Vancouver and are
 Limitations:
 Findings might be skewed by representation bias.
 
-Task:  Get means, merge with Assets dataset
+Task:  Get means, merge with Assets dataset.
+
+#### 7.  means
+
+Created dataset indexed by locations, populated by means of the ordinal and binary variables.
+
+For merging with Assets.
