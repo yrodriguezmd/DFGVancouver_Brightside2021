@@ -21,3 +21,26 @@ Datathon day.  Processed 2021 crime data per neighbourhood.  Manually linked nei
 Using cleaned 2020, removed mod-high correlated variables,checked plots of location vs others - checked survey questions and answer values.  Initially did some location-based plotting, however, might need to resort back to df.hist due to inapplicability of taking the mean (values not really ordinal).
 
 -> Task: convert 'prefer not to answer' asnwers to NaN, recheck missing val distribution.
+
+#### 5.  DFG_B_df10
+
+Cleaned Survey 2020 dataset.  Removed irrelevant variables, replaced 'prefer not to answer' values with Nan, removed variables with >10% missing, removed mod-highly correlated variables.
+
+#### 6.  survey'20_cleaned_EDA_9_8_1pm
+
+Using df10, fast EDA using hist.
+categorical = location, gender, rln_status, work_paid, work_vol, bside_pre
+binary = household, walk_aid, imm_status, bside_pre_muni,
+ordinal = nbr_relation, food_worry, apprch_bside, hlth_happy, chat_often, rlns_safe, age, bside_dur
+
+Findings:
+Most tenants are Canadian-born, aged >55, female, single and living by themselves.
+
+Most are retirees, not doing volunteer work.
+
+Majority were not worried about food. They had acceptable neighbourly social interactions and generally felt content and safe.
+
+Most tenants were previously renting from private companies in Vancouver and are now long-term Brightside clients who think that Brightside is approachable.
+
+Limitations:
+Findings might be skewed by representation bias.
