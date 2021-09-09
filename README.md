@@ -52,3 +52,7 @@ Task:  Get means, merge with Assets dataset.
 Created dataset indexed by locations, populated by means of the ordinal and binary variables.
 
 For merging with Assets.
+
+#### 8 and 9.  crime.csv and crime.ipynb
+
+Created 2020 crime dataset, for merging with Assets and Means.
