@@ -63,6 +63,6 @@ Merged Survey 2020 means, Assets and 2020 neighbourhood crimes.
 
 #### 12 and 13.  data_2020.csv and .ipynb
 
-Merged 2020 survey, assets and crime rates data.  Null values filled.
+means_ass_crime with null filled.
 
 Ready for further analyses.
