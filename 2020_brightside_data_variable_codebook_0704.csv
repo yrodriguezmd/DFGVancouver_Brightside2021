@@ -1,0 +1,540 @@
+Question number,,Value,Label
+q0001_0001,nbr_relation,0,Prefer not to answer
+q0001_0001,nbr_relation,1,Gotten Worse
+q0001_0001,nbr_relation,2,No change
+q0001_0001,nbr_relation,3,Improved
+q0001_0002,sense_commun,0,Prefer not to answer
+q0001_0002,sense_commun,1,Gotten Worse
+q0001_0002,sense_commun,2,No change
+q0001_0002,sense_commun,3,Improved
+q0001_0003,safe_violence,0,Prefer not to answer
+q0001_0003,safe_violence,1,Gotten Worse
+q0001_0003,safe_violence,2,No change
+q0001_0003,safe_violence,3,Improved
+q0001_0004,safe_covid,0,Prefer not to answer
+q0001_0004,safe_covid,1,Gotten Worse
+q0001_0004,safe_covid,2,No change
+q0001_0004,safe_covid,3,Improved
+q0002_0001,food_enough,0,Prefer not to answer
+q0002_0001,food_enough,1,Never
+q0002_0001,food_enough,2,Not much
+q0002_0001,food_enough,3,Sometimes
+q0002_0001,food_enough,4,Often
+q0002_0001,food_enough,5,All the time
+q0002_0002,food_access,0,Prefer not to answer
+q0002_0002,food_access,1,Never
+q0002_0002,food_access,2,Not much
+q0002_0002,food_access,3,Sometimes
+q0002_0002,food_access,4,Often
+q0002_0002,food_access,5,All the time
+q0002_0003,food_variety,0,Prefer not to answer
+q0002_0003,food_variety,1,Never
+q0002_0003,food_variety,2,Not much
+q0002_0003,food_variety,3,Sometimes
+q0002_0003,food_variety,4,Often
+q0002_0003,food_variety,5,All the time
+q0002_0004,food_afford,0,Prefer not to answer
+q0002_0004,food_afford,1,Never
+q0002_0004,food_afford,2,Not much
+q0002_0004,food_afford,3,Sometimes
+q0002_0004,food_afford,4,Often
+q0002_0004,food_afford,5,All the time
+q0002_0005,food_worry,0,Prefer not to answer
+q0002_0005,food_worry,1,Never
+q0002_0005,food_worry,2,Not much
+q0002_0005,food_worry,3,Sometimes
+q0002_0005,food_worry,4,Often
+q0002_0005,food_worry,5,All the time
+q0003,covid_info_satis,1,Very satisfied
+q0003,covid_info_satis,2,Satisfied
+q0003,covid_info_satis,3,Neither satisfied nor dissatisfied
+q0003,covid_info_satis,4,Dissatisfied
+q0003,covid_info_satis,5,Very dissatisfied
+q0004,covid_brief_satis,1,Very satisfied
+q0004,covid_brief_satis,2,Satisfied
+q0004,covid_brief_satis,3,Neither satisfied nor dissatisfied
+q0004,covid_brief_satis,4,Dissatisfied
+q0004,covid_brief_satis,5,Very dissatisfied
+q0005_0001,maint_suite,0,Prefer not to answer
+q0005_0001,maint_suite,1,Yes
+q0005_0001,maint_suite,2,No
+q0005_0002,maint_common,0,Prefer not to answer
+q0005_0002,maint_common,1,Yes
+q0005_0002,maint_common,2,No
+q0005_0003,maint_amenity,0,Prefer not to answer
+q0005_0003,maint_amenity,1,Yes
+q0005_0003,maint_amenity,2,No
+q0005_0004,maint_exterior,0,Prefer not to answer
+q0005_0004,maint_exterior,1,Yes
+q0005_0004,maint_exterior,2,No
+q0005_0005,maint_security,0,Prefer not to answer
+q0005_0005,maint_security,1,Yes
+q0005_0005,maint_security,2,No
+q0005_0006,maint_landscape,0,Prefer not to answer
+q0005_0006,maint_landscape,1,Yes
+q0005_0006,maint_landscape,2,No
+q0005_0007,maint_other,0,Prefer not to answer
+q0005_0007,maint_other,1,Yes
+q0005_0007,maint_other,2,No
+q0005_0001_other,maint_suite_txt,Text,Reasoning for yes
+q0005_0002_other,maint_common_txt,Text,Reasoning for yes
+q0005_0003_other,maint_amenity_txt,Text,Reasoning for yes
+q0005_0004_other,maint_exterior_txt,Text,Reasoning for yes
+q0005_0005_other,maint_security_txt,Text,Reasoning for yes
+q0005_0006_other,maint_landscape_txt,Text,Reasoning for yes
+q0005_0007_other,maint_other_txt,Text,Reasoning for yes
+q0006,house_stable,1,Very stable
+q0006,house_stable,2,Stable
+q0006,house_stable,3,Neither stable nor unstable
+q0006,house_stable,4,Unstable
+q0006,house_stable,5,Very unstable
+q0007,apprch_bside,1,Very approachable
+q0007,apprch_bside,2,Somewhat approachable
+q0007,apprch_bside,3,Neutral
+q0007,apprch_bside,4,Less approachable
+q0007,apprch_bside,5,Not at all approachable
+q0008_0001,comm_email,0,Prefer not to answer
+q0008_0001,comm_email,1,Never
+q0008_0001,comm_email,2,Not much
+q0008_0001,comm_email,3,Sometimes
+q0008_0001,comm_email,4,Often
+q0008_0001,comm_email,5,All the time
+q0008_0002,comm_phone,0,Prefer not to answer
+q0008_0002,comm_phone,1,Never
+q0008_0002,comm_phone,2,Not much
+q0008_0002,comm_phone,3,Sometimes
+q0008_0002,comm_phone,4,Often
+q0008_0002,comm_phone,5,All the time
+q0008_0003,comm_note,0,Prefer not to answer
+q0008_0003,comm_note,1,Never
+q0008_0003,comm_note,2,Not much
+q0008_0003,comm_note,3,Sometimes
+q0008_0003,comm_note,4,Often
+q0008_0003,comm_note,5,All the time
+q0008_0004,comm_board,0,Prefer not to answer
+q0008_0004,comm_board,1,Never
+q0008_0004,comm_board,2,Not much
+q0008_0004,comm_board,3,Sometimes
+q0008_0004,comm_board,4,Often
+q0008_0004,comm_board,5,All the time
+q0008_0005,comm_mail,0,Prefer not to answer
+q0008_0005,comm_mail,1,Never
+q0008_0005,comm_mail,2,Not much
+q0008_0005,comm_mail,3,Sometimes
+q0008_0005,comm_mail,4,Often
+q0008_0005,comm_mail,5,All the time
+q0008_0006,comm_meet,0,Prefer not to answer
+q0008_0006,comm_meet,1,Never
+q0008_0006,comm_meet,2,Not much
+q0008_0006,comm_meet,3,Sometimes
+q0008_0006,comm_meet,4,Often
+q0008_0006,comm_meet,5,All the time
+q0008_0007,comm_news,0,Prefer not to answer
+q0008_0007,comm_news,1,Never
+q0008_0007,comm_news,2,Not much
+q0008_0007,comm_news,3,Sometimes
+q0008_0007,comm_news,4,Often
+q0008_0007,comm_news,5,All the time
+q0009,comm_reg,1,Yes
+q0009,comm_reg,2,No
+q0009,comm_reg,3,Prefer not to answer
+q0010,comm_news_satisf,1,Very satisfied
+q0010,comm_news_satisf,2,Satisfied
+q0010,comm_news_satisf,3,Neither satisfied nor dissatisfied
+q0010,comm_news_satisf,4,Dissatisfied
+q0010,comm_news_satisf,5,Very dissatisfied
+q0011_0001,depm_admin,0,Prefer not to answer or N/A
+q0011_0001,depm_admin,1,Poor
+q0011_0001,depm_admin,2,Fair
+q0011_0001,depm_admin,3,Average
+q0011_0001,depm_admin,4,Good
+q0011_0001,depm_admin,5,Excellent
+q0011_0002,depm_oper,0,Prefer not to answer or N/A
+q0011_0002,depm_oper,1,Poor
+q0011_0002,depm_oper,2,Fair
+q0011_0002,depm_oper,3,Average
+q0011_0002,depm_oper,4,Good
+q0011_0002,depm_oper,5,Excellent
+q0011_0003,depm_account,0,Prefer not to answer or N/A
+q0011_0003,depm_account,1,Poor
+q0011_0003,depm_account,2,Fair
+q0011_0003,depm_account,3,Average
+q0011_0003,depm_account,4,Good
+q0011_0003,depm_account,5,Excellent
+q0011_0004,depm_comdev,0,Prefer not to answer or N/A
+q0011_0004,depm_comdev,1,Poor
+q0011_0004,depm_comdev,2,Fair
+q0011_0004,depm_comdev,3,Average
+q0011_0004,depm_comdev,4,Good
+q0011_0004,depm_comdev,5,Excellent
+q0011_0005,depm_res,0,Prefer not to answer or N/A
+q0011_0005,depm_res,1,Poor
+q0011_0005,depm_res,2,Fair
+q0011_0005,depm_res,3,Average
+q0011_0005,depm_res,4,Good
+q0011_0005,depm_res,5,Excellent
+q0012,food_access_last_12,1,Never
+q0012,food_access_last_12,2,Not much
+q0012,food_access_last_12,3,Sometimes
+q0012,food_access_last_12,4,Often
+q0012,food_access_last_12,5,All the time
+q0012,food_access_last_12,6,Prefer not to answer
+q0013_0001,food_worry_last_12,1,YES
+q0013_0001,food_worry_last_12,2,NO
+q0013_0001,food_worry_last_12,3,Prefer not to answer
+q0013_0002,food_health_last_12,1,YES
+q0013_0002,food_health_last_12,2,NO
+q0013_0002,food_health_last_12,3,Prefer not to answer
+q0013_0003,food_few_last_12,1,YES
+q0013_0003,food_few_last_12,2,NO
+q0013_0003,food_few_last_12,3,Prefer not to answer
+q0013_0004,food_skip_last_12,1,YES
+q0013_0004,food_skip_last_12,2,NO
+q0013_0004,food_skip_last_12,3,Prefer not to answer
+q0013_0005,food_less_last_12,1,YES
+q0013_0005,food_less_last_12,2,NO
+q0013_0005,food_less_last_12,3,Prefer not to answer
+q0013_0006,food_empty_last_12,1,YES
+q0013_0006,food_empty_last_12,2,NO
+q0013_0006,food_empty_last_12,3,Prefer not to answer
+q0013_0007,food_hunger_last_12,1,YES
+q0013_0007,food_hunger_last_12,2,NO
+q0013_0007,food_hunger_last_12,3,Prefer not to answer
+q0013_0008,food_day_last_12,1,YES
+q0013_0008,food_day_last_12,2,NO
+q0013_0008,food_day_last_12,3,Prefer not to answer
+q0014,hlth_phys,1,Excellent
+q0014,hlth_phys,2,Very good
+q0014,hlth_phys,3,Good
+q0014,hlth_phys,4,Fair
+q0014,hlth_phys,5,Poor
+q0014,hlth_phys,6,Prefer not to answer
+q0015,hlth_mental,1,Excellent
+q0015,hlth_mental,2,Very Good
+q0015,hlth_mental,3,Good
+q0015,hlth_mental,4,Fair
+q0015,hlth_mental,5,Poor
+q0015,hlth_mental,6,Prefer not to answer
+q0016,hlth_happy,1,Very happy
+q0016,hlth_happy,2,Happy
+q0016,hlth_happy,3,Neither happy nor unhappy
+q0016,hlth_happy,4,Unhappy
+q0016,hlth_happy,5,Very unhappy
+q0016,hlth_happy,6,Prefer not to answer
+q0017_0001,support_medication,1,Following/taking medication guides
+q0017_0002,support_clean,1,Assistance with in-suite cleaning
+q0017_0003,support_maintenance,1,Assistance with in-suite maintenance (e.g. changing light bulbs)
+q0017_0004,support_personal,1,Personal care (e.g. bathing)
+q0017_0005,support_meal,1,Meal preparation
+q0017_0006,support_grocery,1,Grocery shopping
+q0017_0007,support_na,1,Prefer not to answer
+q0017_0008,support_other,1,Other (please specify):
+q0018,hlth_well,0,Yes (please tell us what they are):
+q0018,hlth_well,1,No
+q0018,hlth_well,2,Prefer not to answer
+q0019_0001,home_dnurse,1,Daily nurse
+q0019_0002,nome_wnurse,1,Weekly nurse
+q0019_0003,home_outreach,1,Outreach worker
+q0019_0004,home_food,1,Food delivery
+q0019_0005,home_clean,1,Cleaning services
+q0019_0006,home_none,1,None
+q0019_0007,home_na,1,Prefer not to answer
+q0019_0008,home_other,1,Other (please specify):
+q0020_0001,prgm_garden,1,Community gardens
+q0020_0002,prgm_bbq,1,Community BBQ
+q0020_0003,prgm_party,1,Holiday party
+q0020_0004,prgm_fair,1,Health fair
+q0020_0005,prgm_social,1,Neighbourhood house social gatherings
+q0020_0006,prgm_clinic,1,Hearing clinics
+q0020_0007,prgm_none,1,None
+q0020_0008,prgm_na,1,Prefer not to answer
+q0020_0009,prgm_other,1,Other (please specify):
+q0021_0001,event_forward,1,Strongly disagree
+q0021_0001,event_forward,2,Disagree
+q0021_0001,event_forward,3,Neither agree nor disagree
+q0021_0001,event_forward,4,Agree
+q0021_0001,event_forward,5,Strongly agree
+q0021_0002,event_inclu,1,Strongly disagree
+q0021_0002,event_inclu,2,Disagree
+q0021_0002,event_inclu,3,Neither agree nor disagree
+q0021_0002,event_inclu,4,Agree
+q0021_0002,event_inclu,5,Strongly agree
+q0021_0003,event_easy,1,Strongly disagree
+q0021_0003,event_easy,2,Disagree
+q0021_0003,event_easy,3,Neither agree nor disagree
+q0021_0003,event_easy,4,Agree
+q0021_0003,event_easy,5,Strongly agree
+q0021_0004,event_nbr,1,Strongly disagree
+q0021_0004,event_nbr,2,Disagree
+q0021_0004,event_nbr,3,Neither agree nor disagree
+q0021_0004,event_nbr,4,Agree
+q0021_0004,event_nbr,5,Strongly agree
+q0021_0005,event_conv,1,Strongly disagree
+q0021_0005,event_conv,2,Disagree
+q0021_0005,event_conv,3,Neither agree nor disagree
+q0021_0005,event_conv,4,Agree
+q0021_0005,event_conv,5,Strongly agree
+q0021_0006,event_contr,1,Strongly disagree
+q0021_0006,event_contr,2,Disagree
+q0021_0006,event_contr,3,Neither agree nor disagree
+q0021_0006,event_contr,4,Agree
+q0021_0006,event_contr,5,Strongly agree
+q0021_0007,event_connect,1,Strongly disagree
+q0021_0007,event_connect,2,Disagree
+q0021_0007,event_connect,3,Neither agree nor disagree
+q0021_0007,event_connect,4,Agree
+q0021_0007,event_connect,5,Strongly agree
+q0021_0008,event_new,1,Strongly disagree
+q0021_0008,event_new,2,Disagree
+q0021_0008,event_new,3,Neither agree nor disagree
+q0021_0008,event_new,4,Agree
+q0021_0008,event_new,5,Strongly agree
+q0022,event_satis_yr,1,Very satisfied
+q0022,event_satis_yr,2,Satisfied
+q0022,event_satis_yr,3,Neither satisfied nor dissatisfied
+q0022,event_satis_yr,4,Dissatisfied
+q0022,event_satis_yr,5,Very dissatisfied
+q0022,event_satis_yr,6,Prefer not to answer
+q0023,event_res_effort,1,Very satisfied
+q0023,event_res_effort,2,Satisfied
+q0023,event_res_effort,3,Neither satisfied nor dissatisfied
+q0023,event_res_effort,4,Dissatisfied
+q0023,event_res_effort,5,Very dissatisfied
+q0023,event_res_effort,6,Prefer not to answer
+q0024_0001,impr_safe,1,Feeling safe in my building
+q0024_0002,impr_comm_nbr,1,Communication with neighbours
+q0024_0003,impr_comm_bside,1,Communication with Brightside
+q0024_0004,impr_social,1,The social environment in my building
+q0024_0005,impr_support,1,Awareness of how to access support services
+q0024_0006,impr_none,1,None
+q0024_0007,impr_na,1,Prefer not to answer
+q0024_0008,impr_other,1,Other (please specify):
+q0025,time_nbr,0,Yes (please tell us what activities):
+q0025,time_nbr,1,No
+q0025,time_nbr,2,Prefer not to answer
+q0026,nbr_relation_better,1,Yes
+q0026,nbr_relation_better,2,No
+q0026,nbr_relation_better,3,Prefer not to answer
+q0027_0001,nbr_relation_priv,1,I prefer to maintain my privacy 
+q0027_0002,nbr_relation_enough,1,I already spend a lot of time with my neighbours
+q0027_0003,nbr_relation_friend,1,I already have enough friends
+q0027_0004,nbr_relation_notime,1,I do not feel like I have the time
+q0027_0005,nbr_relation_ufr,1,The building/my neighbours are unfriendly
+q0027_0006,nbr_relation_not,1,I do not have anything to offer
+q0027_0007,nbr_relation_na,1,Prefer not to answer
+q0027_0008,nbr_relation_other,1,Other (please specify):
+q0028,chat_often,1,Every day
+q0028,chat_often,2,A few times per week
+q0028,chat_often,3,2-3 times per month
+q0028,chat_often,4,Once a month
+q0028,chat_often,5,Never
+q0028,chat_often,6,Prefer not to answer
+q0029_0001,chat_mysuite,1,In my suite
+q0029_0002,chat_nbrsuite,1,In my neighbour's suite
+q0029_0003,chat_common,1,In a common area in my building
+q0029_0004,chat_garden,1,In the community garden
+q0029_0005,chat_city,1,Out in the city
+q0029_0006,chat_na,1,Prefer not to answer
+q0029_0007,chat_other,1,Other (please specify):
+q0030,num_close_friends,1,0
+q0030,num_close_friends,2,1 to 3
+q0030,num_close_friends,3,4 to 6
+q0030,num_close_friends,4,More than 6
+q0030,num_close_friends,5,Prefer not to answer
+q0031_0001,ask_borrow,1,To borrow something
+q0031_0002,ask_sick,1,To help when I am sick
+q0031_0003,ask_away,1,To check on my unit when I am away
+q0031_0004,ask_child,1,To watch my child when the need arises
+q0031_0005,ask_event,1,To go to an event/social activity
+q0031_0006,ask_help,1,To help with a task in my home
+q0031_0007,ask_none,1,None
+q0031_0008,ask_na,1,Prefer not to answer
+q0031_0009,ask_other,1,Other (please specify):
+q0032,unsafe_area,0,Yes (please explain):
+q0032,unsafe_area,1,No
+q0032,unsafe_area,2,Prefer not to answer
+q0033_0001,rlns_care,0,Prefer not to answer
+q0033_0001,rlns_care,1,Strongly disagree
+q0033_0001,rlns_care,2,Disagree
+q0033_0001,rlns_care,3,Neither agree nor disagree
+q0033_0001,rlns_care,4,Agree
+q0033_0001,rlns_care,5,Strongly agree
+q0033_0002,rlns_close,0,Prefer not to answer
+q0033_0002,rlns_close,1,Strongly disagree
+q0033_0002,rlns_close,2,Disagree
+q0033_0002,rlns_close,3,Neither agree nor disagree
+q0033_0002,rlns_close,4,Agree
+q0033_0002,rlns_close,5,Strongly agree
+q0033_0003,rlns_lonely,0,Prefer not to answer
+q0033_0003,rlns_lonely,1,Strongly disagree
+q0033_0003,rlns_lonely,2,Disagree
+q0033_0003,rlns_lonely,3,Neither agree nor disagree
+q0033_0003,rlns_lonely,4,Agree
+q0033_0003,rlns_lonely,5,Strongly agree
+q0033_0004,rlns_welcome,0,Prefer not to answer
+q0033_0004,rlns_welcome,1,Strongly disagree
+q0033_0004,rlns_welcome,2,Disagree
+q0033_0004,rlns_welcome,3,Neither agree nor disagree
+q0033_0004,rlns_welcome,4,Agree
+q0033_0004,rlns_welcome,5,Strongly agree
+q0033_0005,rlns_space,0,Prefer not to answer
+q0033_0005,rlns_space,1,Strongly disagree
+q0033_0005,rlns_space,2,Disagree
+q0033_0005,rlns_space,3,Neither agree nor disagree
+q0033_0005,rlns_space,4,Agree
+q0033_0005,rlns_space,5,Strongly agree
+q0033_0006,rlns_conflict,0,Prefer not to answer
+q0033_0006,rlns_conflict,1,Strongly disagree
+q0033_0006,rlns_conflict,2,Disagree
+q0033_0006,rlns_conflict,3,Neither agree nor disagree
+q0033_0006,rlns_conflict,4,Agree
+q0033_0006,rlns_conflict,5,Strongly agree
+q0033_0007,rlns_safe,0,Prefer not to answer
+q0033_0007,rlns_safe,1,Strongly disagree
+q0033_0007,rlns_safe,2,Disagree
+q0033_0007,rlns_safe,3,Neither agree nor disagree
+q0033_0007,rlns_safe,4,Agree
+q0033_0007,rlns_safe,5,Strongly agree
+q0033_0008,rlns_safe_obj,0,Prefer not to answer
+q0033_0008,rlns_safe_obj,1,Strongly disagree
+q0033_0008,rlns_safe_obj,2,Disagree
+q0033_0008,rlns_safe_obj,3,Neither agree nor disagree
+q0033_0008,rlns_safe_obj,4,Agree
+q0033_0008,rlns_safe_obj,5,Strongly agree
+q0034,age,1,Under 15
+q0034,age,2,15-19
+q0034,age,3,20-24
+q0034,age,4,25-34
+q0034,age,5,35-44
+q0034,age,6,45-54
+q0034,age,7,55-64
+q0034,age,8,65-74
+q0034,age,9,75 and above
+q0034,age,10,Prefer not to answer
+q0035,gender,0,Other (please specify):
+q0035,gender,1,Female
+q0035,gender,2,Male
+q0035,gender,3,Non-binary
+q0035,gender,4,Prefer not to answer
+q0036,sex,0,Other (please specify):
+q0036,sex,1,Heterosexual
+q0036,sex,2,Bisexual
+q0036,sex,3,Lesbian
+q0036,sex,4,Gay
+q0036,sex,5,Prefer not to answer
+q0037,household,0,Not living alone (two or more people in the household)(Please specify how many):
+q0037,household,1,Living alone (single-person household)
+q0037,household,2,Prefer not to answer
+q0038,num_child,1,0
+q0038,num_child,2,1
+q0038,num_child,3,2
+q0038,num_child,4,3
+q0038,num_child,5,4 or more
+q0038,num_child,6,Prefer not to answer
+q0039_0001,lang_eng,1,English
+q0039_0002,lang_fr,1,French
+q0039_0003,lang_canto,1,Cantonese
+q0039_0004,lang_mando,1,Mandarin
+q0039_0005,lang_span,1,Spanish
+q0039_0006,lang_rus,1,Russian
+q0039_0007,lang_viet,1,Vietnamese
+q0039_0008,lang_hindi,1,Hindi
+q0039_0009,lang_punj,1,Punjabi
+q0039_0010,lang_tag,1,Tagalog
+q0039_0011,lang_na,1,Prefer not to answer
+q0039_0012,lang_other,1,Other (please specify):
+q0040_0001,ethn_white,1,White/Caucasian
+q0040_0002,ethn_chn,1,Chinese
+q0040_0003,ethn_sa,1,"South Asian (e.g. East Indian, Pakistani, Sri Lankan)"
+q0040_0004,ethn_blk,1,Black
+q0040_0005,ethn_ph,1,Filipino
+q0040_0006,ethn_la,1,Latin American
+q0040_0007,ethn_sea,1,"Southeast Asian (e.g. Cambodian, Indonesian, Laotian, Vietnamese)"
+q0040_0008,ethn_arab,1,Arab
+q0040_0009,ethn_wa,1,"West Asian (e.g. Afghan, Iranian)"
+q0040_0010,ethn_jp,1,Japanese
+q0040_0011,ethn_kr,1,Korean
+q0040_0012,ethn_indig,1,Indigenous (First Nations/Inuit/Métis)
+q0040_0013,ethn_na,1,Prefer not to answer
+q0040_0014,ethn_other,1,Other (please specify):
+q0041_0001,id_senior,1,Seniors
+q0041_0002,id_ya,1,Young adults
+q0041_0003,id_indig,1,Indigenous peoples
+q0041_0004,id_dis,1,People with disabilities
+q0041_0005,id_substance,1,Substance abuse problems
+q0041_0006,id_addict,1,Living with addiction
+q0041_0007,id_mentalhealth,1,Poor mental health
+q0041_0008,id_flee_viol,1,Women fleeing domestic violence
+q0041_0009,id_vet,1,Veterans
+q0041_0010,id_lgbtq,1,LGBTQ2+
+q0041_0011,id_racialized,1,Racialized peoples
+q0041_0012,id_recent_imm,1,Recent immigrants and refugees
+q0041_0013,id_homeless,1,People who have experienced homelessness
+q0041_0014,id_na,1,Prefer not to answer
+q0042,rln_status,0,Other (please specify):
+q0042,rln_status,1,Single
+q0042,rln_status,2,Married or living common law
+q0042,rln_status,3,Divorced or separated
+q0042,rln_status,4,Widowed
+q0042,rln_status,5,Prefer not to answer
+q0043,rln_support,0,Others (please specify who):
+q0043,rln_support,1,Children
+q0043,rln_support,2,Family
+q0043,rln_support,3,Friend(s)
+q0043,rln_support,4,Prefer not to answer
+q0044,work_paid,1,"Yes, full-time"
+q0044,work_paid,2,"Yes, part-time"
+q0044,work_paid,3,"No, retired"
+q0044,work_paid,4,"No, not currently working"
+q0044,work_paid,5,Prefer not to answer
+q0045,work_vol,1,"Yes, full-time"
+q0045,work_vol,2,"Yes, part-time"
+q0045,work_vol,3,No
+q0045,work_vol,4,Prefer not to answer
+q0046,walk_aid,1,Yes
+q0046,walk_aid,2,No
+q0046,walk_aid,3,Prefer not to answer
+q0047_0001,walk_aid_cane,1,Cane
+q0047_0002,walk_aid_walk,1,Walker
+q0047_0003,walk_aid_crutch,1,Crutches
+q0047_0004,walk_aid_wlchair,1,Wheelchair
+q0047_0005,walk_aid_scooter,1,Scooter
+q0047_0006,walk_aid_na,1,Prefer not to answer
+q0047_0007,walk_aid_other,1,Other (please specify):
+q0048,educ_level,0,Other (please specify)
+q0048,educ_level,1,Did not complete high school
+q0048,educ_level,2,High school diploma
+q0048,educ_level,3,Some college or university
+q0048,educ_level,4,"Technical diploma (e.g. plumbing, electrical, carpentry, etc.)"
+q0048,educ_level,5,Bachelor's degree
+q0048,educ_level,6,"Professional degree (e.g. Master's, PhD, LLB, etc.)"
+q0048,educ_level,7,Prefer not to answer
+q0049,imm_status,0,"Yes, I immigrated in (year):"
+q0049,imm_status,1,"No, I was born in Canada"
+q0049,imm_status,2,Prefer not to answer
+q0050,bside_dur,1,Less than a year
+q0050,bside_dur,2,1-3 years
+q0050,bside_dur,3,4-6 years
+q0050,bside_dur,4,More than 6 years
+q0050,bside_dur,5,Prefer not to answer
+q0051,bside_pre,0,Other (please specify):
+q0051,bside_pre,1,Social housing
+q0051,bside_pre,2,Private market housing (apartment or house)
+q0051,bside_pre,3,Lived with my family
+q0051,bside_pre,4,Transitional housing
+q0051,bside_pre,5,Couch-surfing/staying temporarily with someone
+q0051,bside_pre,6,Homeless
+q0051,bside_pre,7,Shelter
+q0051,bside_pre,8,Prefer not to answer
+q0052,bside_pre_muni,0,Other (please specify):
+q0052,bside_pre_muni,1,Vancouver
+q0052,bside_pre_muni,2,Prefer not to answer
+q0055,surv_who,0,Other (please specify):
+q0055,surv_who,1,Me
+q0055,surv_who,2,Interviewer
+q0056,surv_hear,0,Other (please specify):
+q0056,surv_hear,1,Notice in my building common area
+q0056,surv_hear,2,Received at my door
+q0056,surv_hear,3,Email I received/the website
+q0056,surv_hear,4,Phone call I received
+q0056,surv_hear,5,Friend or neighbour

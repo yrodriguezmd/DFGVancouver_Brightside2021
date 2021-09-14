@@ -1,0 +1,234 @@
+Question number,New code,Label,Measurement Level
+q0001,,"1. Since the introduction of ""social distancing"" measures due to the COVID-19 pandemic, how have each of the following changed for you? ",
+q0001_0001,nbr_relation,My relationships with my neighbours,Scale
+q0001_0002,sense_commun,Sense of community in my building,Scale
+q0001_0003,safe_violence,My safety from theft or violence,Scale
+q0001_0004,safe_covid,My safety from COVID-19,Scale
+q0002,,,
+q0002_0001,food_enough,I have not had enough food to eat.,Scale
+q0002_0002,food_access,I have not been able to access food from the store.,Scale
+q0002_0003,food_variety,I have not been able to access the variety of healthy food I eat.,Scale
+q0002_0004,food_afford,I have been unable to afford enough to eat.,Scale
+q0002_0005,food_worry,I worried about not being able to get enough to eat. ,Scale
+q0003,covid_info_satis,3. How satisfied are you with the information about COVID-19 provided by Brightside?,Nominal
+q0004,covid_brief_satis,4. How satisfied were you with the COVID-19 briefs that were distributed?,Nominal
+q0005_0001,maint_suite,In-Suite,Scale
+q0005_0001_other,maint_suite_txt,5. Would you like to see more focus on maintenance and improvements in the following areas?,Nominal
+q0005_0002,maint_common,Common Areas,Scale
+q0005_0002_other,maint_common_txt,5. Would you like to see more focus on maintenance and improvements in the following areas?,Nominal
+q0005_0003,maint_amenity,Amenity Rooms,Scale
+q0005_0003_other,maint_amenity_txt,5. Would you like to see more focus on maintenance and improvements in the following areas?,Nominal
+q0005_0004,maint_exterior,"Exterior (e.g. Ramps, handrails, benches)",Scale
+q0005_0004_other,maint_exterior_txt,5. Would you like to see more focus on maintenance and improvements in the following areas?,Nominal
+q0005_0005,maint_security,Security,Scale
+q0005_0005_other,maint_security_txt,5. Would you like to see more focus on maintenance and improvements in the following areas?,Nominal
+q0005_0006,maint_landscape,Landscaping,Scale
+q0005_0006_other,maint_landscape_txt,5. Would you like to see more focus on maintenance and improvements in the following areas?,Nominal
+q0005_0007,maint_other,Others,Scale
+q0005_0007_other,maint_other_txt,5. Would you like to see more focus on maintenance and improvements in the following areas?,Nominal
+q0006,house_stable,6. How stable do you feel your current housing situation is?,Nominal
+q0006_other,house_stable_txt,Why:,Nominal
+q0007,apprch_bside,7. How approachable do you think Brightside is?,Nominal
+q0008,,8. How often do you communicate with Brightside in each of the following ways?,
+q0008_0001,comm_email,Email,Scale
+q0008_0002,comm_phone,Phone,Scale
+q0008_0003,comm_note,Notice dropped at apartment,Scale
+q0008_0004,comm_board,Notice on the board,Scale
+q0008_0005,comm_mail,Mail,Scale
+q0008_0006,comm_meet,One-on-one meeting,Scale
+q0008_0007,comm_news,Newsletter,Scale
+q0009,comm_reg,9. Would you like to have regular communications with Brightside by email?,Nominal
+q0010,comm_news_satisf,10. How satisfied are you with the quarterly community newsletter sent by Brightside prior to COVID-19?,Nominal
+q0011,,11. How would you rate your communication with the following departments at Brightside?,
+q0011_0001,depm_admin,"Administration (Employees at the front desk, who receive calls, requests, and provide general information)",Scale
+q0011_0002,depm_oper,"Operations (Employees who deal with day to day repairs & maintenance, complaints, and income review)",Scale
+q0011_0003,depm_account,Accounting (Employees who deal with payments and rents),Scale
+q0011_0004,depm_comdev,"Community Development (Employees who organize events, community gardens, and provide resources and services)",Scale
+q0011_0005,depm_res,Residential Relocation,Scale
+q0011_other,depm_improve_txt,How could Brightside improve?,Nominal
+q0012,food_access_last_12,"12. In the last 12 months, how often did you/your household eat less than you felt you should, because you could not afford it?",Nominal
+q0013,,"13. During the last 12 months, was there a time when, because of lack of money or other resources you experienced any of the following:",
+q0013_0001,food_worry_last_12,I was worried I would not have enough food to eat.,Nominal
+q0013_0002,food_health_last_12,I was unable to eat healthy and nutritious food.,Nominal
+q0013_0003,food_few_last_12,I ate only a few kinds of food.,Nominal
+q0013_0004,food_skip_last_12,I had to skip meals.,Nominal
+q0013_0005,food_less_last_12,I ate less than I thought I should.,Nominal
+q0013_0006,food_empty_last_12,My household ran out of food.,Nominal
+q0013_0007,food_hunger_last_12,I was hungry but did not eat.,Nominal
+q0013_0008,food_day_last_12,I went without eating for a whole day.,Nominal
+q0014,hlth_phys,"14. In general, would you say your physical health is...?",Nominal
+q0015,hlth_mental,"15. In general, would you say your mental health is...?",Nominal
+q0016,hlth_happy,16. Please rate your happiness these days.,Nominal
+q0017_0001,support_medication,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_0002,support_clean,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_0003,support_maintenance,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_0004,support_personal,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_0005,support_meal,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_0006,support_grocery,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_0007,support_na,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_0008,support_other,17. Which of the following supports would help you continue to live independently/age-in-place? (Select all that apply),Nominal
+q0017_other,support_other_txt,Other (please specify),Nominal
+q0018,hlth_well,18. Do you have any other health and wellness needs that Brightside may be able to help meet?,Nominal
+q0018_other,htlh_well_txt,Yes (please tell us what they are):,Nominal
+q0019_0001,home_dnurse,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_0002,nome_wnurse,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_0003,home_outreach,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_0004,home_food,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_0005,home_clean,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_0006,home_none,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_0007,home_na,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_0008,home_other,19. What are the current home supports that you access? (Select all that apply),Nominal
+q0019_other,home_other_txt,Other (please specify),Nominal
+q0020_0001,prgm_garden,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0002,prgm_bbq,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0003,prgm_party,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0004,prgm_fair,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0005,prgm_social,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0006,prgm_clinic,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0007,prgm_none,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0008,prgm_na,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_0009,prgm_other,"20. In the past year, which of the following Brightside programs have you participated in? (Select all that apply)",Nominal
+q0020_other,prgm_other_txt,Other (please specify),Nominal
+q0021,,"20.a. If you attended an event, do you agree with the following statements? ",
+q0021_0001,event_forward,I enjoyed the event and look forward to the next one.,Scale
+q0021_0002,event_inclu,The event felt inclusive of all residents.,Scale
+q0021_0003,event_easy,Brightside made it easy to get to the event.,Scale
+q0021_0004,event_nbr,I met neighbours I have never talked to before.,Scale
+q0021_0005,event_conv,The time of the event was convenient for me.,Scale
+q0021_0006,event_contr,I felt that I made a contribution.,Scale
+q0021_0007,event_connect,I was able to connect to the services I need.,Scale
+q0021_0008,event_new,I learned something new.,Scale
+q0022,event_satis_yr,"21. Overall, how satisfied are you with the events at Brightside over the past year?",Nominal
+q0023,event_res_effort,22. How satisfied are you with Brightside's effort to obtain residents' input for these events?,Nominal
+q0024_0001,impr_safe,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_0002,impr_comm_nbr,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_0003,impr_comm_bside,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_0004,impr_social,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_0005,impr_support,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_0006,impr_none,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_0007,impr_na,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_0008,impr_other,"23. Since the launch of Brightside’s programs, have you seen an improvement in the following? (Select all that apply)",Nominal
+q0024_other,impr_other_txt,Other (please specify),Nominal
+q0025,time_nbr,"24. Since the launch of Brightside's programs, have you spent more time with your neighbours?",Nominal
+q0025_other,time_nbr_txt,Yes (please tell us what activities):,Nominal
+q0026,nbr_relation_better,25. Would you like to get to know your neighbours better?,Nominal
+q0027_0001,nbr_relation_priv,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_0002,nbr_relation_enough,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_0003,nbr_relation_friend,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_0004,nbr_relation_notime,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_0005,nbr_relation_ufr,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_0006,nbr_relation_not,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_0007,nbr_relation_na,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_0008,nbr_relation_other,25. a. What makes you not want to get to know your neighbours better? (Select all that apply),Nominal
+q0027_other,nbr_relation_other_txt,Other (please specify),Nominal
+q0028,chat_often,"26. Approximately how often do you have conversations with your neighbours? This could be anything from ""hello, how are you?"" to more significant chats.",Nominal
+q0029_0001,chat_mysuite,"26. a. If you chat with your neighbours, where does this happen? (Select all that apply)",Nominal
+q0029_0002,chat_nbrsuite,"26. a. If you chat with your neighbours, where does this happen? (Select all that apply)",Nominal
+q0029_0003,chat_common,"26. a. If you chat with your neighbours, where does this happen? (Select all that apply)",Nominal
+q0029_0004,chat_garden,"26. a. If you chat with your neighbours, where does this happen? (Select all that apply)",Nominal
+q0029_0005,chat_city,"26. a. If you chat with your neighbours, where does this happen? (Select all that apply)",Nominal
+q0029_0006,chat_na,"26. a. If you chat with your neighbours, where does this happen? (Select all that apply)",Nominal
+q0029_0007,chat_other,"26. a. If you chat with your neighbours, where does this happen? (Select all that apply)",Nominal
+q0029_other,chat_other_txt,Other (please specify),Nominal
+q0030,num_close_friends,"27. How many close friends do you have (that is, people who are not your relatives, but who you feel at ease with, can talk to about what is on your mind, or call on for help)?",Nominal
+q0031_0001,ask_borrow,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0002,ask_sick,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0003,ask_away,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0004,ask_child,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0005,ask_event,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0006,ask_help,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0007,ask_none,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0008,ask_na,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_0009,ask_other,28. Would you feel comfortable asking your close neighbour: (Select all that apply),Nominal
+q0031_other,ask_other_txt,Other (please specify),Nominal
+q0032,unsafe_area,29. Can you identify an area in your building that makes you feel unsafe?,Nominal
+q0032_other,unsafe_area_yes,Yes (please explain):,Nominal
+q0033,,30. Please tell us how much you agree or disagree with each of the following statements.,
+q0033_0001,rlns_care,The residents here take care of one another.,Scale
+q0033_0002,rlns_close,I have close relationships that provide me with a sense of emotional security and well-being.,Scale
+q0033_0003,rlns_lonely,"I often feel lonely (left out, isolated from others, lacking companionship).",Scale
+q0033_0004,rlns_welcome,I feel welcome in my building community and feel like I belong here.,Scale
+q0033_0005,rlns_space,Residents take good care of their homes and the surrounding common spaces.,Scale
+q0033_0006,rlns_conflict,The residents here work together to solve conflicts.,Scale
+q0033_0007,rlns_safe,I feel safe living in this building.,Scale
+q0033_0008,rlns_safe_obj,I feel like my belongings are safe in this building.,Scale
+q0034,age,31. What is your age?,Nominal
+q0035,gender,32. With which gender do you identify?,Nominal
+q0035_other,gender_other_desc,Other (please specify):,Nominal
+q0036,sex,33. What is your sexual identity?,Nominal
+q0036_other,sex_other_desc,Other (please specify):,Nominal
+q0037,household,34. What is your household composition?,Nominal
+q0037_other,household_num,Not living alone (two or more people in the household)(Please specify how many):,Nominal
+q0038,num_child,35. How many children (under 18) live with you?,Nominal
+q0039_0001,lang_eng,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0002,lang_fr,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0003,lang_canto,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0004,lang_mando,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0005,lang_span,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0006,lang_rus,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0007,lang_viet,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0008,lang_hindi,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0009,lang_punj,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0010,lang_tag,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0011,lang_na,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_0012,lang_other,36. What language(s) do you speak at home? (Select all that apply),Nominal
+q0039_other,lang_other_txt,Other (please specify),Nominal
+q0040_0001,ethn_white,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0002,ethn_chn,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0003,ethn_sa,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0004,ethn_blk,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0005,ethn_ph,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0006,ethn_la,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0007,ethn_sea,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0008,ethn_arab,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0009,ethn_wa,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0010,ethn_jp,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0011,ethn_kr,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0012,ethn_indig,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0013,ethn_na,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_0014,ethn_other,37. What is your ethnicity? (Select all that apply),Nominal
+q0040_other,ethn_other_txt,Other (please specify),Nominal
+q0041_0001,id_senior,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0002,id_ya,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0003,id_indig,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0004,id_dis,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0005,id_substance,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0006,id_addict,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0007,id_mentalhealth,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0008,id_flee_viol,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0009,id_vet,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0010,id_lgbtq,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0011,id_racialized,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0012,id_recent_imm,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0013,id_homeless,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0041_0014,id_na,38. Do you identify with any of the following groups? (Select all that apply),Nominal
+q0042,rln_status,39. What is your relationship status?,Nominal
+q0042_other,rln_status_other,Other (please specify):,Nominal
+q0043,rln_support,40. Do you have any of the following social supports living nearby?,Nominal
+q0043_other,rln_support_other,Others (please specify who):,Nominal
+q0044,work_paid,41. Are you doing any paid work currently?,Nominal
+q0045,work_vol,42. Are you doing any volunteer work currently?,Nominal
+q0046,walk_aid,43. Do you currently use a mobility aid when you walk?,Nominal
+q0047_0001,walk_aid_cane,43. a. Please tell us the type of mobility aid you use. (Select all that apply),Nominal
+q0047_0002,walk_aid_walk,43. a. Please tell us the type of mobility aid you use. (Select all that apply),Nominal
+q0047_0003,walk_aid_crutch,43. a. Please tell us the type of mobility aid you use. (Select all that apply),Nominal
+q0047_0004,walk_aid_wlchair,43. a. Please tell us the type of mobility aid you use. (Select all that apply),Nominal
+q0047_0005,walk_aid_scooter,43. a. Please tell us the type of mobility aid you use. (Select all that apply),Nominal
+q0047_0006,walk_aid_na,43. a. Please tell us the type of mobility aid you use. (Select all that apply),Nominal
+q0047_0007,walk_aid_other,43. a. Please tell us the type of mobility aid you use. (Select all that apply),Nominal
+q0047_other,walk_aid_other_txt,Other (please specify),Nominal
+q0048,educ_level,44. What is the highest level of education you have attained?,Nominal
+q0048_other,educ_level_other,Other (please specify),Nominal
+q0049,imm_status,45. Are you an immigrant to Canada?,Nominal
+q0049_other,imm_year,"Yes, I immigrated in (year):",Nominal
+q0050,bside_dur,46. How long have you lived in a Brightside building?,Nominal
+q0051,bside_pre,46. a. What type of housing did you live in just before moving to a Brightside building?,Nominal
+q0051_other,bside_pre_other,Other (please specify):,Nominal
+q0052,bside_pre_muni,46. b. What municipality did you live in just before moving to the Brightside building?,Nominal
+q0052_other,bside_pre_muni_other,Other (please specify):,Nominal
+q0053,bside_code,47. Please tell us your current building name (Answering to this question is optional. Your response is anonymous. There is no way to track it back to you and personal responses/information is not provided to Brightside):,Nominal
+q0054,surv_feedback,Are there any final thoughts or comments on the survey that you would like to add?,Nominal
+q0055,surv_who,Who filled this survey form?,Nominal
+q0055_other,surv_who_other,Other (please specify):,Nominal
+q0056,surv_hear,How did you hear about this survey?,Nominal
+q0056_other,surv_hear_other,Other (please specify):,Nominal
