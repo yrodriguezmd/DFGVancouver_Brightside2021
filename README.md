@@ -4,6 +4,10 @@
 
 Analysis of Brightside housing data.  
 
+#### A. Original Datasets
+
+#### B. Notebooks and Derived Datasets
+
 #### 1.  rodriguez_2021
 
 Datathon day.  Processed 2021 crime data per neighbourhood.  Manually linked neighbourhood and postal code.  Merged with Amenities dataset.  Analyzed buildings' neighbourhood 2021 crime rate.
