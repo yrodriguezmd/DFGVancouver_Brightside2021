@@ -229,7 +229,7 @@ q0017_0005,support_meal,1,Meal preparation
 q0017_0006,support_grocery,1,Grocery shopping
 q0017_0007,support_na,1,Prefer not to answer
 q0017_0008,support_other,1,Other (please specify):
-q0018,hlth_well,0,Yes (please tell us what they are):
+q0018,hlth_well,0,Yes (please tell us whatÂ they are):
 q0018,hlth_well,1,No
 q0018,hlth_well,2,Prefer not to answer
 q0019_0001,home_dnurse,1,Daily nurse
@@ -304,7 +304,7 @@ q0023,event_res_effort,6,Prefer not to answer
 q0024_0001,impr_safe,1,Feeling safe in my building
 q0024_0002,impr_comm_nbr,1,Communication with neighbours
 q0024_0003,impr_comm_bside,1,Communication with Brightside
-q0024_0004,impr_social,1,The social environment in my building
+q0024_0004,impr_social,1,TheÂ social environment in my building
 q0024_0005,impr_support,1,Awareness of how to access support services
 q0024_0006,impr_none,1,None
 q0024_0007,impr_na,1,Prefer not to answer
@@ -315,10 +315,10 @@ q0025,time_nbr,2,Prefer not to answer
 q0026,nbr_relation_better,1,Yes
 q0026,nbr_relation_better,2,No
 q0026,nbr_relation_better,3,Prefer not to answer
-q0027_0001,nbr_relation_priv,1,I prefer to maintain my privacy 
+q0027_0001,nbr_relation_priv,1,I prefer to maintain my privacyÂ 
 q0027_0002,nbr_relation_enough,1,I already spend a lot of time with my neighbours
 q0027_0003,nbr_relation_friend,1,I already have enough friends
-q0027_0004,nbr_relation_notime,1,I do not feel like I have the time
+q0027_0004,nbr_relation_notime,1,I do not feel like I haveÂ the time
 q0027_0005,nbr_relation_ufr,1,The building/my neighbours are unfriendly
 q0027_0006,nbr_relation_not,1,I do not have anything to offer
 q0027_0007,nbr_relation_na,1,Prefer not to answer
@@ -454,7 +454,7 @@ q0040_0008,ethn_arab,1,Arab
 q0040_0009,ethn_wa,1,"West Asian (e.g. Afghan, Iranian)"
 q0040_0010,ethn_jp,1,Japanese
 q0040_0011,ethn_kr,1,Korean
-q0040_0012,ethn_indig,1,Indigenous (First Nations/Inuit/Métis)
+q0040_0012,ethn_indig,1,Indigenous (First Nations/Inuit/MÃ©tis)
 q0040_0013,ethn_na,1,Prefer not to answer
 q0040_0014,ethn_other,1,Other (please specify):
 q0041_0001,id_senior,1,Seniors
