@@ -70,3 +70,11 @@ Merged Survey 2020 means, Assets and 2020 neighbourhood crimes.
 means_ass_crime with null filled.
 
 Ready for further analyses.
+
+#### 14.  DFG_BSide Sept15 3pm .ipynb
+
+From data loading to cleaning and analyses:  survey 2020 data, crime 2020, assets.
+
+Linear regression done.  Ordinal regression not showing notable results -> not included.
+
+
