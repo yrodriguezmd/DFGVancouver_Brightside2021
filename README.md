@@ -1,4 +1,4 @@
-### DFGVancouver_Brightside2021_in_the_works
+### DFGVancouver_Brightside2021
 
 #### Datathon with Data For Good Vancouver, in cooperation with Brightside
 
@@ -6,7 +6,7 @@ Analysis of Brightside housing data.
 
 #### A. Original Datasets
 
-#### B. Notebooks and Derived Datasets
+#### B. Notebooks and Derived Datasets in-the-works
 
 #### 1.  rodriguez_2021
 
@@ -71,7 +71,10 @@ means_ass_crime with null filled.
 
 Ready for further analyses.
 
-#### 14.  DFG_BSide Sept15 3pm .ipynb
+
+#### C.  Full Notebook
+
+#### 1.  DFG_BSide Sept15 3pm .ipynb
 
 From data loading to cleaning and analyses:  survey 2020 data, crime 2020, assets.
 
