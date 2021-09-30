@@ -80,4 +80,8 @@ From data loading to cleaning and analyses:  survey 2020 data, crime 2020, asset
 
 Linear regression done.  Ordinal regression not showing notable results -> not included.
 
+#### 2.  DFG_Bside Sept26
+
+Revision of Grouped data, addressing 2 properties that had different names compared to that of the Survey data.  No major difference in results, apart from lowest crime rate now at Stanley Park.
+
 
