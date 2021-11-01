@@ -65,11 +65,13 @@ Created 2020 crime dataset, for merging with Assets and Means.
 
 Merged Survey 2020 means, Assets and 2020 neighbourhood crimes.
 
-#### 12 and 13.  data_2020.csv and .ipynb
+#### 12.  data_2020.ipynb
 
 means_ass_crime with null filled.
 
 Ready for further analyses.
+
+(Survey datasets, csv files not published for confidentiality measures)
 
 
 #### C.  Full Notebook
